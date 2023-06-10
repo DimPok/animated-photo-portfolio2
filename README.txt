@@ -1,0 +1,1 @@
+A personal page of a private photographer (or Instagram blogger), made in HTML, CSS and JavaScript. Each of the components on this page "lives its own life", but this was originally intended. If someone has a desire to use this page for their own purposes, then it is worth replacing the pictures, titles and links with their own
